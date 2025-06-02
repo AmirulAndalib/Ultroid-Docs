@@ -11,6 +11,7 @@ Ultroid needs five mandatory variables to run
 - `REDIS_URI`
 - `REDIS_PASSWORD`
 
+
 ### Obtaining API_ID & API_HASH
 
 1. Visit [my.telegram.org](https://my.telegram.org)
